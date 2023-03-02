@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-input_dir = 'data/in/tables/'
+input_dir = '/data/in/tables/'
 
 
 @st.cache_data
